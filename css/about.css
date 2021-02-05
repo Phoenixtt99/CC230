@@ -1,0 +1,33 @@
+body {
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+p{
+    color: blue;
+}
+
+.about{
+    background: grey;
+}
+
+.card{
+    color: black;
+}
+
+.card1{
+    color: green;
+}
+
+.card2{
+    color: red;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+.column{
+    
+}
