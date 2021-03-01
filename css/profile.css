@@ -1,0 +1,22 @@
+.center-me {
+    display; flex;
+    justify-content: center;
+    padding: 40px;
+    text-align: center;
+}
+#prof-display {
+    display: block;
+
+    width: 150px auto;
+    margin: 10px auto;
+    border-radius: 50%;
+}
+#uname-style {
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    max-width:400px;
+    margin: auto;
+    max-height: 400px
+}

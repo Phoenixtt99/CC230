@@ -23,7 +23,7 @@ require 'includes/header.php';
                         <img class="d-block w-100" src="images/c2.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="images/c3.jpg" alt="Third slide">
+                        <img class="d-block w-100" src="images/c3.jpeg" alt="Third slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
