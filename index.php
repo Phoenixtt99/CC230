@@ -11,7 +11,7 @@ require 'includes/header.php';
         <div clas="row">
             <div class="column">
                 <div class="card">
-                    <img src="Images/1.jpeg">
+                    <img src="images/1.jpeg">
                     <div class="container">
                         <h2>GSXR 600</h2>
                         <p>Grey</p>
@@ -23,7 +23,7 @@ require 'includes/header.php';
         </div>
         <div class="column">
             <div class="card1">
-                <img src="Images/p2.jpeg">
+                <img src="images/p2.jpeg">
                 <div class="container">
                     <h2>BMW S1000 RR</h2>
                     <p>White & Blue</p>
@@ -33,7 +33,7 @@ require 'includes/header.php';
         </div>
         <div class="column">
             <div class="card2">
-                <img src="Images/p3.jpeg">
+                <img src="images/p3.jpeg">
                 <div class="container">
                     <h2>Nissan GTR</h2>
                     <p>White</p>
@@ -43,7 +43,7 @@ require 'includes/header.php';
         </div>
         <div class="column">
             <div class="card3">
-                <img src="Images/p4.jpeg">
+                <img src="images/p4.jpeg">
                 <div class="container">
                     <h2>Ferrari 488</h2>
                     <p>Black</p>
